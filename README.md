@@ -10,6 +10,14 @@ just the dotfiles, no deployment method
 - [Zach Holman's dotfiles](https://github.com/holman/dotfiles)
 - [Steve Losh's dotfiles](https://bitbucket.org/sjl/dotfiles)
 - [Nick Nisi's dotfiles](https://github.com/nicknisi/dotfiles)
+- [Paul Irish's dotfiles](https://github.com/paulirish/dotfiles)
+- [gf3's dotfiles](https://github.com/gf3/dotfiles)
+- [necolas' dotfiles](https://github.com/necolas/dotfiles)
+- [cowboy's dotfiles](https://github.com/cowboy/dotfiles)
+
+### git
+
+- [Must Have Git Aliases](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)
 
 ### Vim
 
