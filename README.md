@@ -7,8 +7,9 @@ just the dotfiles, no deployment method
 - [GitHub's dotfiles guide](http://dotfiles.github.io/)
 - [Grunt-powered dotfiles](https://github.com/eduardolundgren/dotfiles)
 - [dotfiles with lots of OS X defaults](https://github.com/mathiasbynens/dotfiles)
-- [topic dotfiles](https://github.com/holman/dotfiles)
+- [Zach Holman's dotfiles](https://github.com/holman/dotfiles)
 - [Steve Losh's dotfiles](https://bitbucket.org/sjl/dotfiles)
+- [Nick Nisi's dotfiles](https://github.com/nicknisi/dotfiles)
 
 ### Vim
 
