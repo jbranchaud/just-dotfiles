@@ -14,7 +14,10 @@ just the dotfiles, no deployment method
 
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [A Good Vimrc](http://dougblack.io/words/a-good-vimrc.html) ([google webcache](http://webcache.googleusercontent.com/search?q=cache:http://dougblack.io/words/a-good-vimrc.html)
-
+- [The Ultimate Vim Distribution](http://vim.spf13.com/)
+- [What is your most productive shortcut with Vim?](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim?rq=1)
+- [What is in your vimrc?](http://stackoverflow.com/questions/164847/what-is-in-your-vimrc)
+- [Common Vim](http://xn--h4hg.ws/2013/12/15/common-vim/)
 
 ### Zsh
 
