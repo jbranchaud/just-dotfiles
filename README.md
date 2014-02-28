@@ -20,6 +20,7 @@ just the dotfiles, no deployment method
 - Straight Up?
 - [Rakefile](https://github.com/nicknisi/dotfiles)
 - [Bash Script](https://bitbucket.org/sjl/dotfiles/src)
+- [OS X vs Linux Scripts](https://github.com/JarrodCTaylor/dotfiles)
 - [Homesick](https://github.com/technicalpickles/homesick)
 - [Grunt](https://github.com/eduardolundgren/dotfiles)
 - Gulp?
