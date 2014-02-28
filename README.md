@@ -5,7 +5,6 @@ just the dotfiles, no deployment method
 ## Resources
 
 - [GitHub's dotfiles guide](http://dotfiles.github.io/)
-- [Grunt-powered dotfiles](https://github.com/eduardolundgren/dotfiles)
 - [dotfiles with lots of OS X defaults](https://github.com/mathiasbynens/dotfiles)
 - [Zach Holman's dotfiles](https://github.com/holman/dotfiles)
 - [Steve Losh's dotfiles](https://bitbucket.org/sjl/dotfiles)
@@ -14,6 +13,17 @@ just the dotfiles, no deployment method
 - [gf3's dotfiles](https://github.com/gf3/dotfiles)
 - [necolas' dotfiles](https://github.com/necolas/dotfiles)
 - [cowboy's dotfiles](https://github.com/cowboy/dotfiles)
+- [ThoughtBot's dotfiles](https://github.com/thoughtbot/dotfiles)
+
+### Deployment Strategies
+
+- Straight Up?
+- [Rakefile](https://github.com/nicknisi/dotfiles)
+- [Bash Script](https://bitbucket.org/sjl/dotfiles/src)
+- [Homesick](https://github.com/technicalpickles/homesick)
+- [Grunt](https://github.com/eduardolundgren/dotfiles)
+- Gulp?
+- Grunt/Gulp + NPM/Bower?
 
 ### git
 
