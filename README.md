@@ -14,6 +14,7 @@ just the dotfiles, no deployment method
 - [necolas' dotfiles](https://github.com/necolas/dotfiles)
 - [cowboy's dotfiles](https://github.com/cowboy/dotfiles)
 - [ThoughtBot's dotfiles](https://github.com/thoughtbot/dotfiles)
+- [Wynn Netherland's dotfiles](https://github.com/pengwynn/dotfiles)
 
 ### Deployment Strategies
 
