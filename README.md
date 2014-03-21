@@ -11,6 +11,7 @@ just the dotfiles, no deployment method
 - [Nick Nisi's dotfiles](https://github.com/nicknisi/dotfiles)
 - [Paul Irish's dotfiles](https://github.com/paulirish/dotfiles)
 - [gf3's dotfiles](https://github.com/gf3/dotfiles)
+- [jm3's dotfiles](https://github.com/jm3/dotfiles)
 - [necolas' dotfiles](https://github.com/necolas/dotfiles)
 - [cowboy's dotfiles](https://github.com/cowboy/dotfiles)
 - [ThoughtBot's dotfiles](https://github.com/thoughtbot/dotfiles)
