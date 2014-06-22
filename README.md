@@ -30,6 +30,16 @@ just the dotfiles, no deployment method
 - Gulp?
 - Grunt/Gulp + NPM/Bower?
 
+### Environment Configuration Tools
+
+- [Boxen](https://boxen.github.com/)
+- [Ansible](http://docs.ansible.com/)
+- [Kitchenplan](http://kitchenplan.github.io/kitchenplan/)
+- [battleschool](https://github.com/spencergibb/battleschool)
+- [Laptop](https://github.com/thoughtbot/laptop) ([blog post](http://robots.thoughtbot.com/laptop-setup-for-an-awesome-development-environment))
+- [Lunar Station](https://github.com/LunarLogic/lunar-station)
+- [sprout-osx-apps](https://github.com/pivotal-sprout/sprout-osx-apps)
+
 ### git
 
 - [Must Have Git Aliases](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)
