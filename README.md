@@ -16,6 +16,7 @@ just the dotfiles, no deployment method
 - [cowboy's dotfiles](https://github.com/cowboy/dotfiles)
 - [ThoughtBot's dotfiles](https://github.com/thoughtbot/dotfiles)
 - [Wynn Netherland's dotfiles](https://github.com/pengwynn/dotfiles)
+- [Alex Palcuie's dotfiles](https://github.com/palcu/dotfiles)
 
 ### Deployment Strategies
 
@@ -25,6 +26,7 @@ just the dotfiles, no deployment method
 - [OS X vs Linux Scripts](https://github.com/JarrodCTaylor/dotfiles)
 - [Homesick](https://github.com/technicalpickles/homesick)
 - [Grunt](https://github.com/eduardolundgren/dotfiles)
+- [Ansible](http://palcu.blogspot.com.ar/2014/06/dotfiles-and-dev-tools-provisioned-by.html)
 - Gulp?
 - Grunt/Gulp + NPM/Bower?
 
